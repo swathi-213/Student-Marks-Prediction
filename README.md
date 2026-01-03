@@ -1,4 +1,6 @@
-# Student Marks Prediction
+# Student Marks Prediction App
+
+👉 **[Click here to open the Live App]([https://student-marks-app.streamlit.app](https://student-marks-prediction-based-on-studyhours-and-attendance.streamlit.app/))**
 
 This project predicts a student’s **expected marks range** based on
 **attendance** and **hours studied**.
