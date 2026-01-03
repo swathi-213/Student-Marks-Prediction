@@ -1,6 +1,6 @@
-# Student Marks Prediction App
+# Student Marks Prediction 
 
-👉 **[Click here to open the Live App]([https://student-marks-app.streamlit.app](https://student-marks-prediction-based-on-studyhours-and-attendance.streamlit.app/))**
+🔗 **Live Demo:** https://student-marks-prediction-based-on-studyhours-and-attendance.streamlit.app/**
 
 This project predicts a student’s **expected marks range** based on
 **attendance** and **hours studied**.
@@ -61,7 +61,7 @@ marks range for display.
 - Pandas
 - Scikit-learn
 - Streamlit
-
+  
 
 ## How to Run Locally
 
@@ -74,3 +74,7 @@ marks range for display.
    streamlit run app.py
 
 3. Open the browser and upload a CSV file to get predictions.
+
+## Deployment
+
+Deployed on Streamlit Community Cloud.
