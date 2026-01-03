@@ -61,17 +61,6 @@ marks range for display.
 - Streamlit
 
 
-## Project Structure
-
-student-marks-prediction/
-│
-├── app.py # Streamlit application
-├── student_dataset.csv
-├── student_marks_model.pkl # Trained ML model
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-
-
 ## How to Run Locally
 
 1. Install dependencies:
